@@ -1,0 +1,10 @@
+# Go build artifacts
+/textnorm
+/textnorm-shadow
+*.test
+*.out
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
